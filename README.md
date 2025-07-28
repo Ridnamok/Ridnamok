@@ -15,9 +15,9 @@
 
 ### Пройденные темы
 
-https://metanit.com/web/html5/
-https://metanit.com/web/javascript/
-https://www.w3schools.com/jquery/default.asp
+<p>https://metanit.com/web/html5/</p>
+<p>https://metanit.com/web/javascript/</p>
+<p>https://www.w3schools.com/jquery/default.asp</p>
 
 ### Социальные сети
 
